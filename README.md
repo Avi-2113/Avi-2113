@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Avi-2113/Avi-2113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**heykartik/heykartik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
